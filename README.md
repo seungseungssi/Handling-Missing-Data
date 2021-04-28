@@ -1,4 +1,4 @@
-# Handling-Missing-Data-
+# Handling-Missing-Data (2020년 2학기)
 고려대 통계학과 수업
 
 - KSC source 파일은 [1] Wagstaff K. (2004) Clustering with Missing Values: No Imputation Required. In: Banks D., McMorris F.R., Arabie P., Gaul W. (eds) Classification, Clustering, and Data Mining Applications. Studies in Classification, Data Analysis, and Knowledge Organisation. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-642-17103-1_61 논문을 참고하여 직접 작성
